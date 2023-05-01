@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Etien-Balorda
-- 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning Java
+- Hi there! I’m @Etien-Balorda
+-
+- 1 L1K3 C0D1N6!
